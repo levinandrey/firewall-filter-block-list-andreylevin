@@ -1,0 +1,4 @@
+||an.yandex.ru^$third-party
+||mc.yandex.net^$third-party
+
+! mds.yandex.net
